@@ -1,0 +1,23 @@
+{
+  "name": "recipe-app-backend",
+  "version": "1.0.0",
+  "description": "RESTful API for an online recipe app using Express, Node, and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [
+    "recipe",
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "Amaitari Hezekiah Philip",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1"
+  }
+}
