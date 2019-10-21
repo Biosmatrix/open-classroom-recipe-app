@@ -14,8 +14,16 @@
     "rest",
     "api"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biosmatrix/open-classroom-recipe-app"
+  },
   "author": "Amaitari Hezekiah Philip",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Biosmatrix/open-classroom-recipe-app/issues"
+  },
+  "homepage": "https://github.com/Biosmatrix/open-classroom-recipe-app#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.7.1"
